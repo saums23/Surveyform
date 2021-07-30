@@ -1,0 +1,87 @@
+body{margin: 0px;}
+.class1{
+	background-image:linear-gradient(90deg,rgb(136, 136, 206, 0.7),rgb(58, 58, 158,0.8)),url(images/meeting.jpg);; 
+	background-size: cover; 
+    background-repeat: no-repeat;
+	width: 1515px;
+	height: 1530px;
+	padding: 15px 5px 5px 15px;
+	
+}
+.div1{
+	background-color: #2A2A49;
+	opacity: 0.8;
+	width: 1000px;
+	height: 1471px;
+	margin: auto;
+	border-radius: 35px;
+	margin-top: 44px;
+	font-family: Arial;
+}
+#id1{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 33px;
+	color: white;
+}
+.class2{
+	font-size: 21px; font font-weight: 200px; color: white;
+	padding-left: 100px;
+}
+#id2{font-size: 29px; color: black; }
+
+#mytext{
+	width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+}
+#mail{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+
+}
+#contact{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 40px;
+  	border-radius: 11px;
+  	padding-left: 6px;}
+#role{width: 810px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 44px;
+  	border-radius: 11px;
+  	padding-left: 6px;}
+
+.sk{
+	color: white;
+
+	font-size: 20px;
+	margin: 3px 3px 3px 3px
+}
+#id7{padding-left: 80px;
+      cursor: default;
+}
+input[type="checkbox"],input[type="radio"]{
+	margin-left: 100px;
+}
+
+.class8{
+     margin-left: 100px;
+     border-radius: 19px;
+
+}
+.class06{width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;     
+  	height: 54px;
+  	border-radius: 11px;
+  	padding-left: 6px;
+  	background-color: skyblue;
+}
